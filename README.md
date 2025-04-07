@@ -13,3 +13,5 @@ Things to consider:
 6. Performance metric
 7. Hyperparameter tuning (Optional)
 8. Comparison between models
+
+In this assignement, I worked with logistic and linear regression models.
